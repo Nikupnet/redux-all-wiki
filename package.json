@@ -1,0 +1,32 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "prop-types": "^15.7.2",
+    "react-chartjs-2": "^2.9.0",
+    "react-filter-search": "^1.0.9",
+    "react-redux": "^5.0.3",
+    "react-router-dom": "^5.1.2",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.3.0",
+    "superagent": "^5.2.1",
+    "superagent-jsonp": "^0.2.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "bulma": "^0.8.0",
+    "parcel": "^1.12.4",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-scripts": "0.9.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
